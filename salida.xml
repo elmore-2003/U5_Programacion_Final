@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libros>
+    <libro>
+        <anio>0</anio>
+        <autor>Autor del libro 1</autor>
+        <titulo>El nombre del libro 1</titulo>
+    </libro>
+    <libro>
+        <anio>1</anio>
+        <autor>Autor del libro 1</autor>
+        <titulo>El nombre del libro 1</titulo>
+    </libro>
+    <libro>
+        <anio>2</anio>
+        <autor>Autor del libro 1</autor>
+        <titulo>El nombre del libro 1</titulo>
+    </libro>
+    <libro>
+        <anio>3</anio>
+        <autor>Autor del libro 1</autor>
+        <titulo>El nombre del libro 1</titulo>
+    </libro>
+    <libro>
+        <anio>4</anio>
+        <autor>Autor del libro 1</autor>
+        <titulo>El nombre del libro 1</titulo>
+    </libro>
+    <libro>
+        <anio>5</anio>
+        <autor>Autor del libro 1</autor>
+        <titulo>El nombre del libro 1</titulo>
+    </libro>
+    <libro>
+        <anio>6</anio>
+        <autor>Autor del libro 1</autor>
+        <titulo>El nombre del libro 1</titulo>
+    </libro>
+    <libro>
+        <anio>7</anio>
+        <autor>Autor del libro 1</autor>
+        <titulo>El nombre del libro 1</titulo>
+    </libro>
+</libros>
